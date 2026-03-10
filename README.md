@@ -19,9 +19,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenoikez&show_icons=true&theme=radical)
+![GitHub stats](https://github.com/BrenoIkez)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoIkez&layout=compact&theme=radical)
+![Top Langs](https://github.com/BrenoIkez)
 
 ---
 
